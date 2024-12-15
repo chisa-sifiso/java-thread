@@ -18,7 +18,7 @@
    <h2>How to Run</h2>
     <ol>
         <li>Clone the repository to your local machine:
-            <pre><code>git clone https://github.com/your-username/java-thread-odds-evens.git</code></pre>
+            <pre><code>git clone https://github.com/chisa-sifiso/java-thread-odds-evens.git</code></pre>
         </li>
         <li>Open the project in your Java IDE or code editor.</li>
         <li>Compile and run the <code>ExpTh</code> class.</li>
