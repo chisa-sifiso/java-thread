@@ -37,6 +37,6 @@
 
    <h2>License</h2>
     <p>This project is licensed under the MIT License.</p>
-    <p> developed by sifiso vinjwa<\p>
+    <p> Developed by sifiso vinjwa</p>
 </body>
 </html>
